@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestingL</string>
+    <string name="ignore_message">Ignore Book?</string>
+    <string name="ignore_negative_message">Cancel</string>
+    <string name="ignore_positive_message">Confirm</string>
+    <string name="options">Options</string>
+    <string name="textview">TextView</string>
+    <string name="ignore">Ignore</string>
+    <string-array name ="book_options">
+        <item>Paper Back</item>
+        <item>Hard Cover</item>
+        <item>E-book</item>
+    </string-array>
+</resources>
